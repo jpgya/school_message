@@ -37,7 +37,7 @@ FlutterとFirebaseを活用し、マルチプラットフォームに対応し�
 ## 📦 セットアップ方法
 
 ```bash
-git clone https://github.com/yourname/school-message-app.git
+git clone https://github.com/jpgya/school_message.git
 cd school-message-app
 flutter pub get
 flutter run
