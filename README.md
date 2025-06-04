@@ -38,6 +38,6 @@ FlutterとFirebaseを活用し、マルチプラットフォームに対応し�
 
 ```bash
 git clone https://github.com/jpgya/school_message.git
-cd school-message-app
+cd school_message
 flutter pub get
 flutter run
